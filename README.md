@@ -10,8 +10,11 @@ Most constraing heuristic selects the next available node that lights up the max
 
 Please have your akari puzzle ready as a .txt file. A sample input file looks like this
 
+
 /# Start of puzzle
+
 10 10
+
 __3_____2_
 
 1__3__0__3
